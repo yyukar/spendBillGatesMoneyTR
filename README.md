@@ -104,6 +104,13 @@ spend-gates-tr/
 
 ---
 
+## Thanks
+
+This project was created with the support of **Patika.dev Fullstack Java Developer Bootcamp**.  
+Special thanks to the instructors and community contributors.
+
+---
+
 ## License
 
 This project is currently **unlicensed**.  
