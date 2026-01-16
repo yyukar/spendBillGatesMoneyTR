@@ -8,7 +8,7 @@ Balance updates with a **counting animation**, and purchases appear in **Your Re
 
 ## Live Demo
 
-- [Vercel live demo]()
+- [Vercel live demo](https://spend-bill-gates-money-tr.vercel.app/)
 
 ---
 
